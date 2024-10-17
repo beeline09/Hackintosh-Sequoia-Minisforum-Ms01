@@ -1,5 +1,8 @@
 # Полностью рабочая сборка Hackintosh для Minisforum MS-01
 For english users use [Readme-en.md](README-en.md)
+
+<img src="AboutWindow.png" width="250">
+
 ## Sequoia 15.0.1 (24A348)
 
 ## Железо
