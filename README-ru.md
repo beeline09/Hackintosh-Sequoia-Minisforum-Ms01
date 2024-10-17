@@ -1,2 +1,15 @@
-# hackintoshSequoiaMs01
-Minisforum MS-01 i9-13900H AMD RX-550 Lexa Hackintosh Sequoia 15.0.1
+# Полностью рабочая сборка Hackintosh для Minisforum MS-01
+## Железо
+
+ - CPU Intel Core i9-13900H
+ - GPU PowerColor Red Dragon RX-500 2GB GDDR5 LP SL (Lexa core)
+ - RAM 98 GB
+ - WiFi/BT. Заменён на BCM94352
+
+Для завода WiFi необходимо будет запустить OCLP->Post-install Root Patch -> Start Root Patching -> перезагрузка -> Очистка NVRAM через меню загрузчика OpenCore **2 раза!!!** После чего будет работать и WiFi и BT. Если хоть что-то не работает, повторяем операцию еще раз.
+
+Графика Intel Iris Xe не поддерживается (ну или не полностью) в Hackintosh, поэтому ее  я отключил и использовал RX-550, где есть проблемное ядро Lexa, но я справился и с этим. Теперь графика на 100% рабочая.
+
+Порты USB распределены максимально эффективно, но на некоторых USB 3.2 портах пришлось отключить поддержку USB 2.0, чтобы хватило лимитов. Ниже представлена карта USB портов.
+
+![My animated logo](USBMap.png)
