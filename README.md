@@ -1,5 +1,7 @@
 # Полностью рабочая сборка Hackintosh для Minisforum MS-01
 For english users use [Readme-en.md](README-en.md)
+## Sequoia 15.0.1 (24A348)
+
 ## Железо
 
  - Процессор **Intel Core i9-13900H**
