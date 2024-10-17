@@ -1,5 +1,5 @@
 # Полностью рабочая сборка Hackintosh для Minisforum MS-01
-For english users use [Readme-en.md](Readme-en.md)
+For english users use [Readme-en.md](README-en.md)
 ## Железо
 
  - Процессор **Intel Core i9-13900H**
