@@ -7,7 +7,7 @@
 
 - Processor **Intel Core i9-13900H**
 - Video card **PowerColor Red Dragon RX-500 2GB GDDR5 LP SL (Lexa core)**
-- RAM **98 GB**
+- RAM **96 GB**
 - WiFi/BT. Replaced with **BCM94352**
 
 To set up WiFi, you will need to run OCLP->Post-install Root Patch -> Start Root Patching -> reboot -> Clear NVRAM via OpenCore bootloader menu **2 times!!!** After that, both WiFi and BT will work. If at least something does not work, repeat the operation again.
