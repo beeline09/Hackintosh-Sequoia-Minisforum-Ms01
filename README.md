@@ -9,7 +9,7 @@ For english users use [Readme-en.md](README-en.md)
 
  - Процессор **Intel Core i9-13900H**
  - Видеокарта **PowerColor Red Dragon RX-500 2GB GDDR5 LP SL (Lexa core)**
- - Оперативная память **98 GB**
+ - Оперативная память **96 GB**
  - WiFi/BT. Заменён на **BCM94352**
 
 Для завода WiFi необходимо будет запустить OCLP->Post-install Root Patch -> Start Root Patching -> перезагрузка -> Очистка NVRAM через меню загрузчика OpenCore **2 раза!!!** После чего будет работать и WiFi и BT. Если хоть что-то не работает, повторяем операцию еще раз.
