@@ -1,5 +1,8 @@
 # Fully working Hackintosh build for Minisforum MS-01
 ## OS: **Sequoia 15.0.1 (24A348)**
+
+<img src="AboutWindow.png" width="250">
+
 ## Hardware
 
 - Processor **Intel Core i9-13900H**
