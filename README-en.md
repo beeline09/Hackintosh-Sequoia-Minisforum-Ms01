@@ -1,7 +1,7 @@
 # Fully working Hackintosh build for Minisforum MS-01
+## OS: **Sequoia 15.0.1 (24A348)**
 ## Hardware
 
-- OS: **Sequoia 15.0.1 (24A348)**
 - Processor **Intel Core i9-13900H**
 - Video card **PowerColor Red Dragon RX-500 2GB GDDR5 LP SL (Lexa core)**
 - RAM **98 GB**
